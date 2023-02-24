@@ -1,0 +1,2286 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22621.1265; Version 2009; 64bit' Language: 'en' Physical Memory: 16201 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Coding/Unity/Flappy(2)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53478
+Successfully changed project path to: C:/Coding/Unity/Flappy(2)
+C:/Coding/Unity/Flappy(2)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 87.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Coding/Unity/Flappy(2)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6192
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56032
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003593 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 89.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.142 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007146 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 112.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.607 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2513.
+Total: 4.249800 ms (FindLiveObjects: 0.343400 ms CreateObjectMapping: 0.180200 ms MarkObjects: 3.481400 ms  DeleteObjects: 0.242400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites
+  artifactKey: Guid(4be0592a84905d44881b8bf1df3f7545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(4be0592a84905d44881b8bf1df3f7545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9437ad55fde1aade717b810f5aba17e') in 0.016350 seconds
+  Import took 0.022907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.432879 seconds.
+  path: Assets/Sprites/https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites.png
+  artifactKey: Guid(fa81d21d998f28d44a4e665adb729375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites.png using Guid(fa81d21d998f28d44a4e665adb729375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f62d6a801a1138acd64c8080eb77a19') in 0.186787 seconds
+  Import took 0.193664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.157729 seconds.
+  path: Assets/Sprites/https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites.png
+  artifactKey: Guid(fa81d21d998f28d44a4e665adb729375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites.png using Guid(fa81d21d998f28d44a4e665adb729375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b299a25fc42cb24a1fa03cc209b2f5') in 0.016529 seconds
+  Import took 0.023192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.214616 seconds.
+  path: Assets/Sprites/https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites.png
+  artifactKey: Guid(fa81d21d998f28d44a4e665adb729375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites.png using Guid(fa81d21d998f28d44a4e665adb729375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a66400dda4bd8dc3f72f4161c320282') in 0.189644 seconds
+  Import took 0.197041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.730117 seconds.
+  path: Assets/Sprites/https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites.png
+  artifactKey: Guid(fa81d21d998f28d44a4e665adb729375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites.png using Guid(fa81d21d998f28d44a4e665adb729375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4820dc10d9b4c59dd1769422f3890e71') in 0.131402 seconds
+  Import took 0.140847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 304.432238 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.010669 seconds
+  Import took 0.018964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.777628 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(dc8eee8202d009542966573c5faccaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(dc8eee8202d009542966573c5faccaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6491cd44b3f04330ff7607e2bf9d27de') in 0.012934 seconds
+  Import took 0.019013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009456 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(dc8eee8202d009542966573c5faccaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(dc8eee8202d009542966573c5faccaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6491cd44b3f04330ff7607e2bf9d27de') in 0.003419 seconds
+  Import took 0.010023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.897833 seconds.
+  path: Assets/Animations/Flap.anim
+  artifactKey: Guid(f71386f3e75ad884ca2a61244f2067fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Flap.anim using Guid(f71386f3e75ad884ca2a61244f2067fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e59e11ed35b7f28fb6be13d49dc3df94') in 0.018789 seconds
+  Import took 0.024972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.216827 seconds.
+  path: Assets/Animations/Player.controller
+  artifactKey: Guid(2b0a179ce0ffc6a4797f45b8f40d8beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player.controller using Guid(2b0a179ce0ffc6a4797f45b8f40d8beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '324d2af82a1f20212657100595ae76a6') in 0.017195 seconds
+  Import took 0.023880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 451.766861 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(94e705d473e78b44bb55b7ae5cf5df23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(94e705d473e78b44bb55b7ae5cf5df23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '840b95d3ad710dbb57ca1b864c1531ae') in 0.010838 seconds
+  Import took 0.018461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.659414 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(090f66c687eefd04ea0c5c830ef6bce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(090f66c687eefd04ea0c5c830ef6bce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c81348d4c0aa7ee6858c47a7a998e27') in 0.025430 seconds
+  Import took 0.032037 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006893 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.158 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2578.
+Total: 4.216500 ms (FindLiveObjects: 0.347600 ms CreateObjectMapping: 0.176300 ms MarkObjects: 3.508700 ms  DeleteObjects: 0.181000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.606615 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(090f66c687eefd04ea0c5c830ef6bce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(090f66c687eefd04ea0c5c830ef6bce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8e3c7368e3f4c782c48d09247ef77b') in 0.009766 seconds
+  Import took 0.017212 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006821 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.175 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2582.
+Total: 4.047900 ms (FindLiveObjects: 0.325300 ms CreateObjectMapping: 0.169600 ms MarkObjects: 3.370700 ms  DeleteObjects: 0.180000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007772 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.234 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2586.
+Total: 4.274700 ms (FindLiveObjects: 0.338000 ms CreateObjectMapping: 0.160900 ms MarkObjects: 3.594000 ms  DeleteObjects: 0.179800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 291.907281 seconds.
+  path: Assets/Scripts/Pipe.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Pipe.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36110f5243c6f16c79924358a5ddac7d') in 0.016333 seconds
+  Import took 0.025131 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008412 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.170 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2591.
+Total: 4.479000 ms (FindLiveObjects: 0.344700 ms CreateObjectMapping: 0.180400 ms MarkObjects: 3.758100 ms  DeleteObjects: 0.193800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.217201 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741b9c6164040e4edfa68d5a437c5509') in 0.016745 seconds
+  Import took 0.025649 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009193 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.172 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2595.
+Total: 4.136100 ms (FindLiveObjects: 0.356000 ms CreateObjectMapping: 0.179000 ms MarkObjects: 3.410900 ms  DeleteObjects: 0.188400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006980 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.214 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2599.
+Total: 6.028300 ms (FindLiveObjects: 0.351300 ms CreateObjectMapping: 0.192500 ms MarkObjects: 5.279800 ms  DeleteObjects: 0.202400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.643007 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.003237 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.010521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069783 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000759 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038018 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000869 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.009647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.174073 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000639 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.008587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069656 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000721 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.010956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095183 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000544 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040390 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000754 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.008786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038981 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000781 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.009024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049506 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000787 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.009407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045020 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000646 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.007290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039179 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000552 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.007071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040496 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001353 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.007928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044266 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000547 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036583 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000713 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.009216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034239 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000512 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049469 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000514 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.144551 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000524 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053532 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000696 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.008999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036132 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000587 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034602 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000621 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038438 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000519 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040652 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000513 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032180 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000508 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031917 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000757 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.008150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038324 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000540 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051390 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000521 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041470 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000665 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.009188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034055 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000475 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034461 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000483 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047717 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000539 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036639 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000517 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035459 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000481 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038541 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000563 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048607 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000695 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.010438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088581 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000594 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055197 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002422 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.118534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068895 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000602 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.008768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045426 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000575 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.008081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051612 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000729 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.009297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040109 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000721 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.008410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129608 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000563 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031548 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000517 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041203 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000473 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034649 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000559 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.008042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039511 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000612 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.007311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031392 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000549 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031801 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000518 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042509 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000488 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032750 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000553 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035360 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000523 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039316 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000513 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039776 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000509 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046239 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000513 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032996 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000549 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032795 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000500 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034169 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000528 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044852 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000576 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040806 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000475 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029452 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000483 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.007598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.156204 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000937 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.011305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066070 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000564 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040375 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000502 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032808 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000593 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031651 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000525 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035820 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000504 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038019 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000525 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030079 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000490 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029525 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000504 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036044 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000476 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037270 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000511 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031763 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000501 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031492 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000640 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033998 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000550 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038481 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000466 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030019 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000676 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029726 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000479 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032292 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000506 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041051 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000466 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033037 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000519 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029811 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000528 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030111 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000507 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040804 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000482 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029491 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000568 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030899 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000512 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028951 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000654 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034516 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000490 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036214 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000496 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030455 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000505 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030851 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000483 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034688 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000490 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039745 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000480 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030446 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000526 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032365 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000531 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032293 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000497 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038068 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000593 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038698 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000507 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036007 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000504 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032763 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000547 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033064 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000577 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043660 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000510 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032318 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000525 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032413 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000545 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033254 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000517 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040704 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000498 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031548 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000516 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033074 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000526 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033629 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000516 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033600 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000554 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041014 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000503 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030355 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000549 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033790 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000696 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.008607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033639 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000541 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041804 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000507 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038145 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000517 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032655 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000710 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.009260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030654 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000501 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032445 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000536 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042237 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000480 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036251 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000471 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033568 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000514 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029432 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000631 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033770 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000476 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034642 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000647 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042829 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000519 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.007040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034283 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000550 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040657 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000490 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030807 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000529 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030357 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000506 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030976 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000545 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.007059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034804 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000498 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035554 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000562 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030804 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000514 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031053 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000572 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038311 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000515 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038759 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000527 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031035 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000519 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030747 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000593 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.007178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035245 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000481 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037622 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000630 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029817 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000529 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030644 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000508 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030780 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000537 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040739 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000497 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031881 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000547 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031616 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000625 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030399 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000530 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041494 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000504 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030661 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000520 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030798 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000540 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030094 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000569 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035387 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000481 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.005886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040216 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000515 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030848 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000518 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029962 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000798 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030574 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000532 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040585 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000547 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048531 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000521 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039094 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000547 seconds
+  ERROR: Build asset version error: assets/scripts/obstacle.cs in SourceAssetDB has modification time of '2023-02-24T15:58:26.0326857Z' while content on disk has modification time of '2023-02-24T15:58:38.817846Z'
+  Import took 0.006701 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007376 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.201 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2603.
+Total: 6.490500 ms (FindLiveObjects: 0.486700 ms CreateObjectMapping: 0.250700 ms MarkObjects: 5.475000 ms  DeleteObjects: 0.274900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.224392 seconds.
+  path: Assets/Scripts/Obstacle.cs
+  artifactKey: Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Obstacle.cs using Guid(cc0c48f69df43374695ba0784065b304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e12cc31d5bcec3c88191ae1adebe087a') in 0.026245 seconds
+  Import took 0.039934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.295181 seconds.
+  path: Assets/Scripts/Spawner.cs
+  artifactKey: Guid(45bf02169be73bf4bb35fa60cf21567b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spawner.cs using Guid(45bf02169be73bf4bb35fa60cf21567b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a303d07001a82f731c9a9420bd603c40') in 0.011990 seconds
+  Import took 0.021233 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007138 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.118 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2608.
+Total: 5.325500 ms (FindLiveObjects: 0.390700 ms CreateObjectMapping: 0.194300 ms MarkObjects: 4.333200 ms  DeleteObjects: 0.404800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 203.076423 seconds.
+  path: Assets/Scripts/Spawner.cs
+  artifactKey: Guid(45bf02169be73bf4bb35fa60cf21567b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spawner.cs using Guid(45bf02169be73bf4bb35fa60cf21567b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd4d436b5eff9f25c1d5c766fcf2f13e') in 0.009805 seconds
+  Import took 0.019634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.608869 seconds.
+  path: Assets/Scripts/Spawner.cs
+  artifactKey: Guid(45bf02169be73bf4bb35fa60cf21567b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spawner.cs using Guid(45bf02169be73bf4bb35fa60cf21567b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80ecb3f6178f5a7f6a7326d50a8979f8') in 0.003663 seconds
+  Import took 0.011827 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010920 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.152 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2612.
+Total: 4.552400 ms (FindLiveObjects: 0.359200 ms CreateObjectMapping: 0.172700 ms MarkObjects: 3.834700 ms  DeleteObjects: 0.184100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.568831 seconds.
+  path: Assets/Scripts/Spawner.cs
+  artifactKey: Guid(45bf02169be73bf4bb35fa60cf21567b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spawner.cs using Guid(45bf02169be73bf4bb35fa60cf21567b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef9c2c447045da8ce8f8ff2535905bb') in 0.007621 seconds
+  Import took 0.014323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.209563 seconds.
+  path: Assets/Objects
+  artifactKey: Guid(c57be75eb09ef104d8107bf9c117cfde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects using Guid(c57be75eb09ef104d8107bf9c117cfde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcb7bb8d618e92376aa83cac209e4c9b') in 0.010693 seconds
+  Import took 0.017314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.770495 seconds.
+  path: Assets/Objects/Pipes.prefab
+  artifactKey: Guid(068b06e0f9d5c4a4da3660ca9fd6a18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Pipes.prefab using Guid(068b06e0f9d5c4a4da3660ca9fd6a18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077ec270db456b72013e5fd3c3bd04c6') in 0.118903 seconds
+  Import took 0.126257 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011038 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.550 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2621.
+Total: 4.757200 ms (FindLiveObjects: 0.381200 ms CreateObjectMapping: 0.200800 ms MarkObjects: 3.956100 ms  DeleteObjects: 0.216200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.444334 seconds.
+  path: Assets/Objects/Pipes.prefab
+  artifactKey: Guid(068b06e0f9d5c4a4da3660ca9fd6a18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Pipes.prefab using Guid(068b06e0f9d5c4a4da3660ca9fd6a18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5051eeccbd07b27e375f9d26e332056b') in 0.108817 seconds
+  Import took 0.117144 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009353 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.141 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2626.
+Total: 4.322000 ms (FindLiveObjects: 0.356500 ms CreateObjectMapping: 0.174700 ms MarkObjects: 3.593700 ms  DeleteObjects: 0.194700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.739343 seconds.
+  path: Assets/Animations/Platform.anim
+  artifactKey: Guid(3a417c1c3734b4943a5b94e9d92eae74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Platform.anim using Guid(3a417c1c3734b4943a5b94e9d92eae74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f848b64b6cff991ba42eba1726b3b0df') in 0.049141 seconds
+  Import took 0.060911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011366 seconds.
+  path: Assets/Animations/Platform.anim
+  artifactKey: Guid(3a417c1c3734b4943a5b94e9d92eae74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Platform.anim using Guid(3a417c1c3734b4943a5b94e9d92eae74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f848b64b6cff991ba42eba1726b3b0df') in 0.004909 seconds
+  Import took 0.014003 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007141 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.228 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2630.
+Total: 4.623200 ms (FindLiveObjects: 0.384800 ms CreateObjectMapping: 0.201500 ms MarkObjects: 3.822400 ms  DeleteObjects: 0.212200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.068036 seconds.
+  path: Assets/Animations/Platform.controller
+  artifactKey: Guid(6874365c0b974dc4592678727ebc4c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Platform.controller using Guid(6874365c0b974dc4592678727ebc4c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ea0f562f998aef77ad947e71e33457') in 0.023714 seconds
+  Import took 0.032572 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006902 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.188 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2634.
+Total: 4.464100 ms (FindLiveObjects: 0.345500 ms CreateObjectMapping: 0.185400 ms MarkObjects: 3.742600 ms  DeleteObjects: 0.188600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006950 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.280 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2638.
+Total: 4.495500 ms (FindLiveObjects: 0.341900 ms CreateObjectMapping: 0.160200 ms MarkObjects: 3.662500 ms  DeleteObjects: 0.328500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006864 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.212 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2642.
+Total: 6.433200 ms (FindLiveObjects: 0.511800 ms CreateObjectMapping: 0.232300 ms MarkObjects: 5.395300 ms  DeleteObjects: 0.291000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006941 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.096 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2646.
+Total: 4.935700 ms (FindLiveObjects: 0.362500 ms CreateObjectMapping: 0.172200 ms MarkObjects: 4.180600 ms  DeleteObjects: 0.217600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007025 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.154 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2650.
+Total: 4.353100 ms (FindLiveObjects: 0.325800 ms CreateObjectMapping: 0.178000 ms MarkObjects: 3.650200 ms  DeleteObjects: 0.197000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008289 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.166 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2654.
+Total: 4.403400 ms (FindLiveObjects: 0.358500 ms CreateObjectMapping: 0.163200 ms MarkObjects: 3.687800 ms  DeleteObjects: 0.192000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 400.684938 seconds.
+  path: Assets/Objects/Pipes.prefab
+  artifactKey: Guid(068b06e0f9d5c4a4da3660ca9fd6a18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Pipes.prefab using Guid(068b06e0f9d5c4a4da3660ca9fd6a18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ca84b68fde3d7960992e665265b4c1c') in 0.111735 seconds
+  Import took 0.119895 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006817 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.169 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2659.
+Total: 4.198900 ms (FindLiveObjects: 0.364600 ms CreateObjectMapping: 0.162300 ms MarkObjects: 3.485300 ms  DeleteObjects: 0.184800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007378 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.203 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2663.
+Total: 4.170500 ms (FindLiveObjects: 0.320000 ms CreateObjectMapping: 0.167100 ms MarkObjects: 3.490700 ms  DeleteObjects: 0.190800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 261.839516 seconds.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(346334cc65c96db41b8c13257f3bcf08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(346334cc65c96db41b8c13257f3bcf08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338797de5537adfa6c806743e0b0666c') in 0.015275 seconds
+  Import took 0.022935 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007844 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.960 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2668.
+Total: 4.441700 ms (FindLiveObjects: 0.359400 ms CreateObjectMapping: 0.181400 ms MarkObjects: 3.707900 ms  DeleteObjects: 0.191300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.721416 seconds.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(346334cc65c96db41b8c13257f3bcf08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(346334cc65c96db41b8c13257f3bcf08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be5ab2cb53d788461ebd4bb1d72e480') in 0.010260 seconds
+  Import took 0.019567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.873237 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(090f66c687eefd04ea0c5c830ef6bce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(090f66c687eefd04ea0c5c830ef6bce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b9eb1e3138dba77f0f433dc03849f0') in 0.003383 seconds
+  Import took 0.009504 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007046 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.167 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2672.
+Total: 4.671000 ms (FindLiveObjects: 0.562500 ms CreateObjectMapping: 0.301500 ms MarkObjects: 3.617000 ms  DeleteObjects: 0.187600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.360960 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(090f66c687eefd04ea0c5c830ef6bce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(090f66c687eefd04ea0c5c830ef6bce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c00d203780977275b19d1da45f7281eb') in 0.008108 seconds
+  Import took 0.014946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.439343 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Styles/FloatingMenu.uss
+  artifactKey: Guid(04ac82a2c43d10f4790e0c720502e3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Styles/FloatingMenu.uss using Guid(04ac82a2c43d10f4790e0c720502e3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf888ccfb2a40a962886f379445dc69') in 0.044835 seconds
+  Import took 0.051370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Styles/FloatingMenuItem.uss
+  artifactKey: Guid(217de72323dece74caf1db54dfacfac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Styles/FloatingMenuItem.uss using Guid(217de72323dece74caf1db54dfacfac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10303df8d3bbd2429e38bf7465da1388') in 0.012695 seconds
+  Import took 0.018602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Generate_Geometry.png
+  artifactKey: Guid(41842964c48860f46b45e7b3d5986e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Generate_Geometry.png using Guid(41842964c48860f46b45e7b3d5986e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '980faa258f10cbc991b961fd7611bfc1') in 0.096727 seconds
+  Import took 0.103337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Styles/FloatingMenu.uss
+  artifactKey: Guid(04ac82a2c43d10f4790e0c720502e3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Styles/FloatingMenu.uss using Guid(04ac82a2c43d10f4790e0c720502e3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf888ccfb2a40a962886f379445dc69') in 0.004561 seconds
+  Import took 0.010477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Generate_Geometry.png
+  artifactKey: Guid(cbef2434b36ff174a98995b13ef80390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Generate_Geometry.png using Guid(cbef2434b36ff174a98995b13ef80390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec09bd35e8576760bfcb5413412bd18c') in 0.024850 seconds
+  Import took 0.031453 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007191 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.309 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2679.
+Total: 5.547600 ms (FindLiveObjects: 0.373200 ms CreateObjectMapping: 0.175400 ms MarkObjects: 4.760700 ms  DeleteObjects: 0.235500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008692 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.176 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2683.
+Total: 4.740200 ms (FindLiveObjects: 0.390400 ms CreateObjectMapping: 0.191500 ms MarkObjects: 3.922900 ms  DeleteObjects: 0.233000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
